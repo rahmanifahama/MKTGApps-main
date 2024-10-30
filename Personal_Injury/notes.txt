@@ -1,0 +1,11 @@
+/**** Notes:
+ * This is how notes are written for brief explanations.
+  ****/ 
+
+// This is a standard comment
+
+/* This is a standard comment */
+
+// TODO: This is a comment when something needs to be done
+
+// FIXME: This is a comment for when there is an issue or bug 
