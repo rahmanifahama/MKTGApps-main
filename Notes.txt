@@ -1,0 +1,10 @@
+/*******Notes*******/ 
+Put a specific message 
+
+FIXME: A Segment in the file thats not functional or to address
+
+TODO: A task thats needed for the code to be functioonal (e.g, Implement Validations, Implement Logics)
+
+TOADD: A feature or an option to be added for code improve.
+
+Optional: A feature TBD with colleagues
